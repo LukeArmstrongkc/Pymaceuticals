@@ -1,6 +1,6 @@
 # Pymaceuticals
 
-The purpose of this project was to use Python to observe cancer drugs to see which ones had a positive or negative effect, and which ones were placebos.
+The purpose of this project was to use Python, Matplotlib, Pandas, and Seaborn to observe cancer drugs to see which ones had a positive or negative effect, and which ones were placebos.
 
 # Observable Trends
 * Of the four drug variables observed in this exercise, only Capomulin hade any noticeable impact on reducing tumor mass.
